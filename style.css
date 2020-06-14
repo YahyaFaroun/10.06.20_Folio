@@ -256,6 +256,9 @@ footer nav a{
     display: block;
     padding: 5px 5%;
 }
+footer nav a:hover{
+    text-decoration: underline;
+}
 
 /*
 Farben: #002a5a, #efe8d7, #F4C4C4, #282b29, #7d2222, #DEB873, #D2D2D2, #1d8883
